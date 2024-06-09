@@ -3,7 +3,7 @@ from subtraction import subtract
 from multiplication import multiply
 from division import divide
 
-
+st.image("data:image/png;file:///C:/Users/hp/Downloads/background.webp")
 def calculator()-> None:
 
     a:int = int(input('Enter 1st no:'))
